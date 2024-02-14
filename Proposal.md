@@ -1,19 +1,25 @@
 # Proposal: Systems and Simulations
 
-_a 1-semester course on:_
-* _the principles of systems design, their basic principles (stocks, flows, and feedback loops), and analysis of many diverse systems we encounter;_
-* _simulation modeling, including the simulation of simple and complex dynamic, self-reinforcing systems, and use simulation modeling to test hypotheses about the world;_
-* _and actual project development, including github/gitflow, collaboration, management, and organization_
+_course topics:_
+* _the principles of systems design, fundamental features of systems (stocks, flows, and feedback loops), and analysis of many systems we encounter;_
+* _simulation modeling, including the simulation of simple/complex, dynamic, self-reinforcing systems, and using simulation modeling to develop/test hypotheses about the world;_
+* _project development, including github/gitflow, collaboration, self- and group management, and self- and group organization_
 
 **Philosophy:**
-* we want the lowest floor and highest ceiling possible
-* we want the students to be as self-motivated as possible
-* we want the grade to reflect actual learning and growth
+* we want the lowest floor and highest ceiling possible, to encourage participation and enable self-learning
+* we want the students to be as self-motivated as possible, to cultivate internal motivation and self-interest
+* we want the grade to reflect actual learning and self-growth
 
   
 **Text(s):**
 * _Thinking in Systems_ by Donella Meadows
 
+**Course Overview**
+* Part 1: Thinking in Systems (weeks 1-9)
+    blah
+* Part 2: Building an Open Source Ant Engine (weeks 10-15)
+    blah
+  
 **Topics by Week:**
 
 Part 1: Thinking in Systems
