@@ -118,5 +118,8 @@ As this is a real project, participation in the second half of the class will si
 * "playable ant" system with player controller
 * first person view system
 * ant stats manager debugger
+* unified/universal color palette
+* better tilemap graphics
+* consistent entity sprites
 
 
