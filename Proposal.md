@@ -121,5 +121,6 @@ As this is a real project, participation in the second half of the class will si
 * unified/universal color palette
 * better tilemap graphics
 * consistent entity sprites
+* color picker debugger (for modeulating color of entity class)
 
 
