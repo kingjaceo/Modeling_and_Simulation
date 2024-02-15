@@ -92,3 +92,31 @@ As this is a real project, participation in the second half of the class will si
   *  reproduction system
   *  basic graphics / animations
   *  good project organization and established project organization standards
+ 
+**Potential New Features to the Ant Engine**
+* flying insects, which have greater sight range and pursue targets directly
+* trash system (colony needs special cells dedicated to storing corpses and refuse)
+* death animation
+* sound effects
+* debug GUI
+* refactor entity classes to use reusable/modifiable-on-runtime "resource" data containers
+* different layers of underground soils and rocks, based on depth
+* interactable tilemap debuggers (eg, paint "diggable", paint "food", paint "water", in run time)
+* UI art design
+* higher-frame-number animations
+* ants can build "homes" in different rooms of the colony
+* ants can wear different types of clothing
+* temperature system
+* weather/season system
+* culture system
+* science system
+* religion system
+* "win conditions" system
+* coolANT: cools colony down, develops culture
+* defendANT: defends the colony from threats
+* ascendANT: builds the colony up (brick pyramid > skyscraper > space needle > space elevator)
+* "playable ant" system with player controller
+* first person view system
+* ant stats manager debugger
+
+
