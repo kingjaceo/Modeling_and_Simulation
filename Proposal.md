@@ -92,7 +92,12 @@ As this is a real project, participation in the second half of the class will si
   *  reproduction system
   *  basic graphics / animations
   *  good project organization and established project organization standards
- 
+
+ **Course Idea Bucket**
+ * Need a unit on OOD (composition, inheritiance, design patterns/principles, loose coupling, etc)
+ * Need units on simulation (agent-based, discrete-event, dynamics, etc)
+ * Need units on analysis
+   
 **Potential New Features to the Ant Engine**
 * flying insects, which have greater sight range and pursue targets directly
 * trash system (colony needs special cells dedicated to storing corpses and refuse)
