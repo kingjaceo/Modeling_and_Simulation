@@ -1,4 +1,4 @@
-# Proposal: Systems and Simulations
+# Proposal: Systems Models and Simulations
 
 _course topics:_
 * _the principles of systems design, fundamental features of systems (stocks, flows, and feedback loops), and analysis of many systems we encounter;_
@@ -18,6 +18,19 @@ _course topics:_
 **Course Overview**
 * **Part 1 -- Thinking in Systems (weeks 1-9)**: students learn to use Godot game engine and Github by building increasingly complex/interconnected system models
 * **Part 2 -- Building an Open Source Ant Engine (weeks 10-15)**: students use their knowledge of Godot, Github, and systems to collaborate on and contribute to a larger pre-existing project
+
+**Educational Units (~2 weeks each)**
+weekly projects (something you're proud of), biweekly reports (1-3 paragraphs on achievements, goals, and questions)?
+* Introduction to Systems and Simulation, with Godot
+* Linearity, Nonlinearity, and Feedback
+* Object Oriented Design, Inheritance, and Composition in Practice 
+* Personal Systems and a Composite System Model
+* User Interaction and Design Patterns
+* Class Project:
+* 1) choose one complex system to implement altogether,
+* 2) elect to participate in the open-source ant engine,
+* 3) elect to develop the Systems and Simulation package
+
   
 **Topics by Week:**
 
@@ -97,6 +110,7 @@ As this is a real project, participation in the second half of the class will si
  * Need a unit on OOD (composition, inheritiance, design patterns/principles, loose coupling, etc)
  * Need units on simulation (agent-based, discrete-event, dynamics, etc)
  * Need units on analysis
+ * Variance, distributions, randomness
    
 **Potential New Features to the Ant Engine**
 * flying insects, which have greater sight range and pursue targets directly
