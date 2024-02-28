@@ -2,7 +2,7 @@
 
 **Description**
 
-This course is an introduction to simulation and modeling, studying fundamental features of dynamic systems, 
+This course is an introduction to simulation and modeling. It will cover fundamental features of dynamic systems (eg, stocks, flows, and feedback), design principles and patterns (eg, SOLID principles), statistical methods for analyzing simulation output (eg, distributions of random numbers, variance reduction, and hypothesis testing), and using development platforms, asset libraries, and version control to manage large projects.
 
 **Topics Covered**
 
