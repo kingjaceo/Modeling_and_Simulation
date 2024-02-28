@@ -1,4 +1,6 @@
 # Proposal: Systems Models and Simulations
+**Descsription**
+This class will use systems design and simulation modeling to reinforce principles of object oriented design (eg, the SOLID principles). The course will also be an exploration of the features of dynamic systems, like stocks, flows, and feedback loops. The course will utilize the open source video game engine Godot to teach design principles and patterns and user interaction. The course will also survey statistical topics related to randomness, variance, and simulation, in particular output analysis and variance reduction. The course will project-based, with weekly projects for the first thirds of the course and a class project in the last third. The course will seek to simulate what it is like to work on a real development project, with students using git to push, pull, and merge code for large projects.
 
 _course topics:_
 * _the principles of systems design, fundamental features of systems (stocks, flows, and feedback loops), and analysis of many systems we encounter;_
