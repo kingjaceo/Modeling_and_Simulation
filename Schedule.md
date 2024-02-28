@@ -2,6 +2,7 @@
 
 **Deadlines**
 Week 1:
+* Git and Github basics: https://youtu.be/RGOj5yH7evk
 * 8/30: helloWorld.tscn due to github
 
 Week 2:
