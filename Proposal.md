@@ -1,4 +1,4 @@
-# Proposal: Simulation and Modeling
+# Proposal: Modeling and Simulation
 
 **Description**
 
