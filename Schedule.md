@@ -54,6 +54,6 @@ FinalReport.md draft due to github
 UserAgreement.md due to github
 MakerAgreement.md due to github
 
-Week 16:
+Week 16 (Finals):
 FinalReport.md due to github
 demo.exe due to github
